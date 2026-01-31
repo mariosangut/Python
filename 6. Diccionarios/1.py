@@ -1,0 +1,2 @@
+divisas = {'Euro': '€', 'Dollar': '$', 'Yen': '¥'}
+print(divisas[input("Ingrese la divisa (Euro, Dollar, Yen): ")] if input("Ingrese la divisa (Euro, Dollar, Yen): ") in divisas else "Divisa no encontrada")
