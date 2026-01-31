@@ -4,8 +4,6 @@ Este repositorio contiene los **ejercicios prácticos de Python** realizados dur
 
 Los ejercicios están organizados por temas, siguiendo los contenidos vistos en clase, y tienen como objetivo afianzar los conceptos básicos del lenguaje.
 
----
-
 ## Estructura del repositorio
 
 Los ejercicios se agrupan en carpetas según el tema:
@@ -18,4 +16,4 @@ Los ejercicios se agrupan en carpetas según el tema:
 6. **Diccionarios**  
 7. **Funciones**
 
-Dentro de cada carpeta, los archivos corresponden a ejercicios individuales numerados (`1.py`, `2.py`, etc.)._
+Dentro de cada carpeta, los archivos corresponden a ejercicios individuales numerados (`1.py`, `2.py`, etc.).
